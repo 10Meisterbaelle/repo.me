@@ -1,0 +1,25 @@
+<package>
+	<id>com.felix.meinerstestheme</id>
+	<name>Mein erstes Theme</name>
+	<version>1.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<shortDescription>Mein erster Versuch, ein Theme zu erstellen</shortDescription>
+	<descriptionlist>
+		<description>Mein erstes Theme, was ich erstellt habe.</description>
+		<description>Getestet mit Anemone 3 und SnowBoard.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>01.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Neue Icons</change>
+	</changelog>
+	<links></links>
+</package>
